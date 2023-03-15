@@ -1,4 +1,4 @@
-# Auto loading
+# Composer
 
 - Composer is a dependency manager for PHP.
   It is a tool that simplifies the process of managing dependencies in a PHP project,
